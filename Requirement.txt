@@ -1,0 +1,8 @@
+Required tools
+F-450 frame
+FlySky receiver
+4 BLDC motors of 2100kV
+30 Amp ESC (4)
+2.4.8 flight controller
+FSi6 Fligth controller
+GPS-Neo M8N
